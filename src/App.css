@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
+
+.App{
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.card_container:hover{
+    
+}
